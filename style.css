@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 500vh;
+    width: auto;
+}
+header{
+   height: 200px;
+   width: auto;
+   background-color: #ffffff;
+
+}
+.header{
+    display: flex;
+}
+.nol{
+    background-color: #01727D;
+    height: 420px;
+    width: 750px;
+    border-bottom-right-radius:130px ;
+   
+}
+.nol .fin{
+   margin: 10px 10px 0px 80px;
+}
+.nol a {
+    color:white ;
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 60px;
+    padding-top: 50px;
+    
+}
+h1{
+    margin:100px 0px 40px 60px ;
+    color: #ffffff;
+    font-size: 50px;
+}
+.nol p{
+    margin: 0px 0px 50px 60px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.nol button{
+    height: 40px;
+    width: 120px;
+    border-radius: 80px ;
+    border-color: #F2B138;
+    background-color: #F2B138;
+    margin: 0px 0px 0px 60px ;
+    color: #ffffff;
+
+}
+.but button{
+    height: 40px;
+    width: 120px;
+    border-radius: 80px;
+    position: absolute;
+    background-color: #F2B138;
+    border-color: #F2B138;
+    margin-left: 340px;
+}
+.but button a{
+    color: #ffffff;
+    text-decoration: none;
+   font-size: 18px;
+
+}
+.mon img{
+    height: 460px ;
+    width: 340px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    position: absolute;
+    left: 820px;
+    top: 60px;
+}
+.png1 img{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 700px;
+    left: 140px;
+    border-radius: 5px;
+}
+.png2 img{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 700px;
+    left: 440px;
+    border-radius: 5px;
+}
+.png3 img{
+    height: 460px;
+    width:400px;
+    position: absolute;
+    top: 700px;
+    left: 760px;
+    border-radius: 5px;
+}
+.png4 img{
+    height: 420px;
+    width:550px;
+    position: absolute;
+    top: 980px;
+    left: 140px;
+    border-radius: 5px;
+}
+.png5 img{
+    height: 200px;
+    width:400px;
+    position: absolute;
+    top: 1200px;
+    left: 760px;
+    border-radius: 5px;
+}
+
+
+
